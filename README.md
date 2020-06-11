@@ -14,5 +14,5 @@ Building a Modern Computer From First Principles
     And the course is totally free, you can either do it from they original site https://www.nand2tetris.org/
     Or from they course in the Coursera
     https://www.coursera.org/learn/build-a-computer/home/welcome
-- ### recommended links
-- this program will help a lot in the first hardware units https://logic.ly/
+- ### Useful links
+- This program will help a lot in the first hardware units https://logic.ly/
